@@ -1,0 +1,3 @@
+Loja A|Loja A LTDA|12345678000195|Rua A, 123|Ji-Paraná|Rondônia|1234567890|contato@loja.com|Pérolla
+Loja B|Loja B LTDA|12345678000196|Rua B, 456|Ji-Paraná|Rondônia|1234567890|contato2@loja.com|Pérolla
+Loja C|Loja C LTDA|12345678000197|Rua C, 789|Ji-Paraná|Rondônia|1234567890|contato3@loja.com|Pérolla

@@ -1,0 +1,32 @@
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\appsettings.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Atividade João - Pérolla.exe
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Atividade João - Pérolla.deps.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Atividade João - Pérolla.runtimeconfig.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Atividade João - Pérolla.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Atividade João - Pérolla.pdb
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.AssemblyInfoInputs.cache
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.AssemblyInfo.cs
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets\msbuild.Atividade João - Pérolla.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets\msbuild.build.Atividade João - Pérolla.props
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Atividade João - Pérolla.props
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Atividade João - Pérolla.props
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\scopedcss\bundle\Atividade João - Pérolla.styles.css
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividad.BB0A6B00.Up2Date
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\refint\Atividade João - Pérolla.dll
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.pdb
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\Atividade João - Pérolla.genruntimeconfig.cache
+C:\Users\2022102020078\source\repos\Atividade João - Pérolla\Atividade João - Pérolla\obj\Debug\net8.0\ref\Atividade João - Pérolla.dll
